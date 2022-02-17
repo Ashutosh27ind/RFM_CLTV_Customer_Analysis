@@ -1,5 +1,5 @@
 # RFM_CLTV_Customer_Analysis
-Goal is here to create RFM customer segments and find CLTV for existing customers  
+Goal is here to create RFM customer segments and find CLTV for existing customer. 
 
 ## Step1 : Data Preparation and EDA.  
  
